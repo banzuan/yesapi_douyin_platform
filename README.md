@@ -4,11 +4,11 @@
 
 ## 运行效果截图
 登录页：  
-![WX20191202-114409](http://cdn7.okayapi.com/yesyesapi_20191202115358_6894d4f385f481f46a735f0707373ae6.png)  
+![](http://cdn7.okayapi.com/yesyesapi_20191202115358_6894d4f385f481f46a735f0707373ae6.png)  
 
 首页：  
-![WX20191202-114103](http://cdn7.okayapi.com/yesyesapi_20191202115424_a2594e94026a78149329a87c75945939.png)  
-![WX20191202-114116](http://cdn7.okayapi.com/yesyesapi_20191202115443_a4d3642f8b742f81650bd3d93a704f11.png)  
+![](http://cdn7.okayapi.com/yesyesapi_20191202115424_a2594e94026a78149329a87c75945939.png)  
+![](http://cdn7.okayapi.com/yesyesapi_20191202115443_a4d3642f8b742f81650bd3d93a704f11.png)  
 
 我的视频：  
 ![](http://cdn7.okayapi.com/yesyesapi_20191202115530_828f2c2fa953ed2dd443c72307bea18d.png)  
