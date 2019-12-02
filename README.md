@@ -44,4 +44,4 @@ server {
 + 抖音开放平台（需要注册申请认证）：https://open.douyin.com/platform
 + 小白开放平台（免费注册、免费使用，用于存放数据）：http://open.yesapi.cn/
 + Vue前端开源框架：https://cn.vuejs.org/
-+ 基于PhalApi开源接口框架的API域（前后端分离，配套使用）：
++ 基于PhalApi开源接口框架的API域（前后端分离，配套使用）：https://github.com/yesapicn/yesapi_douyin_api
