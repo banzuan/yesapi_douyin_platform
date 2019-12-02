@@ -1,0 +1,35 @@
+@import './reset.scss';
+
+body {
+  font-family: 'Microsoft YaHei',tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.clearfix:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+.clearfix{
+  zoom: 1;
+}
+
+a,
+a:focus,
+a:hover {
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+html,
+body,
+#app {
+  height: 100%;
+}
